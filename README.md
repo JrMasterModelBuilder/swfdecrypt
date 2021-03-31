@@ -5,7 +5,7 @@ Decrypt/deobfuscate/unpack obfuscated SWF files
 
 # Overview
 
-Currently unpacks (SWF Encrypt 4+?) packed AS1/AS2 code in the following tags:
+Currently unpacks (SWF Encrypt 4+?) packed AS1/AS2 code in unknown tag 253 before the following tags:
 
 -   `DoAction`
 -   `PlaceObject2`
