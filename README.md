@@ -19,7 +19,7 @@ Only supports uncompressed SWF files, so decompress with `flasm -x file.swf` fir
 # Usage
 
 ```
-./main.mjs in.swf out.swf
+node main.mjs in.swf out.swf
 ```
 
 
